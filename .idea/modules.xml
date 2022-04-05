@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nms.iml" filepath="$PROJECT_DIR$/nms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snmp/snmp.iml" filepath="$PROJECT_DIR$/snmp/snmp.iml" />
+    </modules>
+  </component>
+</project>

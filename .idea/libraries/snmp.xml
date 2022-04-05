@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="snmp">
+    <CLASSES>
+      <root url="jar://D:/JavaTools/M2Repository/other/snmp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

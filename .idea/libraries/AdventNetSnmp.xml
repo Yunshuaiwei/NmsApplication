@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AdventNetSnmp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../snmp/lib/AdventNetSnmp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

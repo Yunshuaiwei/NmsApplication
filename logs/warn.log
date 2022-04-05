@@ -1,0 +1,35 @@
+19:15:13.273 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+19:20:12.334 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+19:20:14.552 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.1.3 时超时!
+19:25:13.114 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+19:30:02.287 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.1.3 时超时!
+19:30:13.343 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+19:35:11.105 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+20:37:11.393 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m39s555ms408µs700ns).
+20:41:09.588 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@33187475 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.590 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@12c83bf5 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.591 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@43e523c8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.592 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@4072657f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.593 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@3a20b20d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.594 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@6964212f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.594 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@375a4a8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.595 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@50ff6024 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.595 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@27552964 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+20:41:09.596 [scheduling-1] WARN  com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@9ab89c2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+21:25:09.806 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+21:30:09.617 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+21:30:11.753 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.1.3 时超时!
+21:35:09.855 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+21:40:09.275 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+21:40:11.404 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.1.3 时超时!
+21:45:09.413 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+21:50:09.365 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+21:50:11.498 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.1.3 时超时!
+21:55:09.190 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+22:00:09.094 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+22:00:11.215 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.1.3 时超时!
+22:05:08.999 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+22:10:02.126 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.1.3 时超时!
+22:10:11.218 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+22:15:09.250 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
+22:35:16.256 [scheduling-1] ERROR com.xust.common.utils.SnmpManager - 走访IP为192.168.198.100, OID为1.3.6.1.2.1.2.2.1.1 时超时!
